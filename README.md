@@ -1,6 +1,8 @@
 # Android_Bottom_Navigation
 Instagram's Bottom Navigation Clone 
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 ### menu/menu_item.xml
@@ -100,15 +102,10 @@ bottomNavigationView = findViewById(R.id.bottomNavigation);
 ```
 
 # App Highlight
+![Bottom Nav App1](https://user-images.githubusercontent.com/74413402/192095736-986443a7-b888-45ba-ab8c-9dde692815a3.png)
+![Bottom Nav App2](https://user-images.githubusercontent.com/74413402/192095738-4e756df7-8c84-4de5-b36b-f385f9c3ded0.png)
+![Bottom Nav App3](https://user-images.githubusercontent.com/74413402/192095739-cec24aed-1e8c-4f84-a585-b784a8f0a1f4.png)
+![Bottom Nav App4](https://user-images.githubusercontent.com/74413402/192095740-abf4bc6a-1172-44c6-90d4-620efafecbac.png)
+![Bottom Nav App5](https://user-images.githubusercontent.com/74413402/192095741-e4e50201-cf20-4942-8e03-22a02646d090.png)
+![Bottom Nav Code](https://user-images.githubusercontent.com/74413402/192095743-b938675b-c660-4577-85b1-a02cc8b0dc6b.png)
 
-<img src="app_images/Bottom Nav Code.png" width="1000" /><br>
-
-<img src="app_images/Bottom Nav App1.png" width="300" /><br>
-
-<img src="app_images/Bottom Nav App2.png" width="300" /><br>
-
-<img src="app_images/Bottom Nav App3.png" width="300" /><br>
-
-<img src="app_images/Bottom Nav App4.png" width="300" /><br>
-
-<img src="app_images/Bottom Nav App5.png" width="300" /><br>
